@@ -105,3 +105,6 @@ dist
 
 # VSCode Workspace files
 *.code-workspace
+
+# Writing
+./blog/posts/*
